@@ -63,7 +63,7 @@ function App() {
           </Routes>
         </main>
         <footer className='flex justify-center items-center h-20 bg-black text-slate-100'>
-          ⓒ Kim Kyung Min , K-digital-7
+          ⓒ Moon Dong Yun , K-digital-7
         </footer>
       </div>
     </BrowserRouter>

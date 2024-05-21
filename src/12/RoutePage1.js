@@ -10,7 +10,7 @@ export default function RoutePage1() {
       </h1>
       <div className="flex justify-center items-center
                       text-2xl font-bold "> 
-        {fruits.includes(item) ? `${item} : 과일입니다.`
+        {fruits.includes(item) ? `${item} : 과일dd입니다.`
                                 : `${item} : 과일이 아닙니다.`}
       </div>
     </div>

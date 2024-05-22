@@ -14,7 +14,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="flex flex-col w-full max-w-screen-lg h-screen mx-auto">
-        <header className='flex justify-between items-center text-xl font-bold h-20 p-10 bg-slate-200'>
+        <header className='flex justify-between items-center text-xl font-bold h-20 p-10 bg-stone-400'>
           <p>리액트 실습</p>
           <ul className='flex justify-center items-center text-sm'>
             <li className='mx-2 p-2 rounded-md
